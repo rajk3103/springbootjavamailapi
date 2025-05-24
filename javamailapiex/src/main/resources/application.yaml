@@ -1,0 +1,14 @@
+spring:
+
+  # GMail Properties
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: raje3103@gmail.com
+    password: fjvi cdwt phso adof
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
